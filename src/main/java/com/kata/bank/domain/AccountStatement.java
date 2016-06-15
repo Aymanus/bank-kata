@@ -1,10 +1,6 @@
 package com.kata.bank.domain;
 
-import java.io.PrintStream;
 import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.util.LinkedList;
-import java.util.List;
 import java.util.Objects;
 
 public class AccountStatement {
